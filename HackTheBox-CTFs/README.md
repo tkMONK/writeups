@@ -1,2 +1,2 @@
-# HackTheBox-CTFs
+# HackTheBox
 Hack the Box Active machines
